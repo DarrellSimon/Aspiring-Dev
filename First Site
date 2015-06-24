@@ -1,52 +1,46 @@
-<DOCTYPE! html>
+<DOCTYPE!! html>
 <html>
  <head>
    <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-    <title>Super Sayian Portfolio Site</title>
- </head>
- <header>
-   <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_-uh1CDkse6uUF4udaplVr0eYlcxs-T7DZb3tJiW47bUQ6CbD">
-   <h1> The Sayians</h1>
- </header>
+   <title>MY JOURNEY INTO WEB DEVELOPMENT</title>
+</head>
+<header>
+  <h1>MY SITE</h1>
+  <ul>
+  <li>Home</li>
+  <li>Contact Information</li>
+  <li>Favourite Sites</li>
+  </ul>
+</header>
 <body>
-  <h1> <em> Who Where They ?</em> </h1>
-   <p> The Sayians were a race of warriors, that lived in space on the Planet Vegeta.In terms of their appearance they look just like us except with tails and more muscles.Unfortunately most perished when their planet was blown up.</p>
-   <h2> Personality </h2>
-   <p> Most Sayians were agggresive , brutal and sadistic.The majority only cared for them selves though there are some exceptions.Put one thing that 99.99% of sayians have in common are that they are arrogant and full of pride , they believe that they are the best and that nothing can stop them.</p>
-   <h3> <strong> About Me</strong> </h3>
-   <ol>
-     <li>Interests</li>
-     <ul>
-        <li> Fishing</li>
-        <li> Watching Youtube </li>
-     </ul>
-     <li> I love coding</li>
-     <li>I like popcorn</li>
-   </ol>
-   <thead>
-   <tr>
-   <td>Transformations </td>
-   </tr>
-   <tbody>
-   <table border=4px>
-     <tr>
-       <td><a href="http://dragonball.wikia.com/wiki/Great_Ape"><img src="http://vignette3.wikia.nocookie.net/dragonball/images/0/08/Goku_VS_Gohan_%28great_ape%29.jpg/revision/latest/scale-to-width/280?cb=20111124230446"></a></td>
-	   <td><a href="http://dragonball.wikia.com/wiki/Super_Saiyan"><img src="http://vignette1.wikia.nocookie.net/dragonball/images/2/22/GokuSuperSaiyanVsCooler.png/revision/latest/scale-to-width/280?cb=20120620232809"></a></td>
-     </tr>
+<div class="me">
+<HR>
+<h1>About ME</h1>
+<p>I am a 13 year old kid who has an interest in emerging web technologies, wether it be tablets,laptops, smartphones or even apps.<br>
+  I am aspiring to be a web developer in the future,I thinks its a really cool career choice, it's very hard to learn at first but,<br>
+  once i got used to it its no that hard.</p>
+<h4>Likes</h4>
+<ol>
+<li>Sleeping.</li>
+<li>Eating and Cooking.</li>
+<li>Staying up to date with tech.</li>
+<li>Listening to instrumentals.</li>
+<li>Practicing my code skills.</li>
+</ol>
+<hr>
+</div>
+<div class="link">
+<h2> My Education in Coding</h2>
+<p> Along with several books I have taken many online classes and read many articles some of them are:<br>They were very instrumental in getting me started on my journey.</p>
+    <ol>
+    <li><a href="http://www.codecademy.com/learn">Codeacademy</li>
+    <li><a href="https://dash.generalassemb.ly/">Dash </li>
+    <li><a href="https://www.khanacademy.org/">KhanAcademy</li>
+    <li><a href="https://developer.mozilla.org/en-US/"> FirefoxDeveloperNetwork</li>
+    </ol>
 
-     <tr>
-         <td><a href="http://dragonball.wikia.com/wiki/Super_Saiyan_2"><img src="http://vignette1.wikia.nocookie.net/dragonball/images/2/21/GohanSSIIWMATNV.png/revision/latest/scale-to-width/180?cb=20100511152141&format=webp"</a></td>
-		 <td><a href="http://dragonball.wikia.com/wiki/Super_Saiyan_3"><img src="http://vignette2.wikia.nocookie.net/dragonball/images/f/f2/GotenksSSIIINV02.png/revision/latest/scale-to-width/200?cb=20130103162411&format=webp"</a></td>
-     </tr>
-
-     <tr>
-         <td><a href="http://dragonball.wikia.com/wiki/Super_Saiyan_God"><img src="http://vignette2.wikia.nocookie.net/dragonball/images/0/05/Super_Saiyan_God_Goku_clear.png/revision/latest/scale-to-width/160?cb=20130727121243"/></a></td>
-     </tr>
-
-   </table>
- </tbody>
- <div>
- 
- </div>
+  </div>
+  <footer>
+  </footer>
 </body>
-</html
+</html>
