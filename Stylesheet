@@ -1,0 +1,24 @@
+body {
+font-size: 19px;
+}
+.me {
+background-color:#C0C0C0;
+color:#FFFAFA;
+}
+
+ header ul li {
+display: inline-block;
+margin-right: 20px;
+margin-left: 200px;
+margin-top: auto;
+margin-bottom: 20px;
+border-style: solid;
+border-radius: 1px;
+border-color: #800000;
+color:#20B2AA ;
+}
+
+header h1{
+  text-align: center;
+}
+
